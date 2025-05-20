@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A92C79D-E500-4902-8A72-E8B13E634375}|DataAccessObjects\\DataAccessObjects.csproj|c:\\users\\acer\\desktop\\learning resources\\prn212\\prn212\\lab1\\productmanagementdemo\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A92C79D-E500-4902-8A72-E8B13E634375}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DE10C8-16AE-4574-9A71-71A7ED82D470}|ProductManagement\\ProductManagement.csproj|c:\\users\\acer\\desktop\\learning resources\\prn212\\prn212\\lab1\\productmanagementdemo\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DE10C8-16AE-4574-9A71-71A7ED82D470}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DE10C8-16AE-4574-9A71-71A7ED82D470}|ProductManagement\\ProductManagement.csproj|c:\\users\\acer\\desktop\\learning resources\\prn212\\prn212\\lab1\\productmanagementdemo\\productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DE10C8-16AE-4574-9A71-71A7ED82D470}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\ProductDAO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:38:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAIwLQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:26:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:25:34.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
