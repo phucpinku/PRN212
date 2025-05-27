@@ -2,7 +2,7 @@ USE [master]
 GO
 /****** Object:  Database [FUMiniHotelManagement]    Script Date: 3/30/2024 8:14:58 AM ******/
 CREATE DATABASE [FUMiniHotelManagement]
-
+GO
 USE [FUMiniHotelManagement]
 GO
 
