@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
+    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
         "projectName": "DataAccessObjects",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\DataAccessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj": {
+    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj",
         "projectName": "ProductManagement",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\ProductManagement\\ProductManagement.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\ProductManagement\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\ProductManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -182,11 +182,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Services\\Services.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Services\\Services.csproj"
               }
             }
           }
@@ -229,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -257,11 +257,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\DataAccessObjects\\DataAccessObjects.csproj"
               }
             }
           }
@@ -301,14 +301,14 @@
         }
       }
     },
-    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Services\\Services.csproj": {
+    "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Services\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -329,11 +329,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\Repositories.csproj"
+              "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\Repositories.csproj"
               }
             }
           }

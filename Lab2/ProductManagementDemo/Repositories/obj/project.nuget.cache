@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+T4Ztm6FWaI=",
+  "dgSpecHash": "fpaJn3oUR6I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab1\\ProductManagementDemo\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\learning resources\\PRN212\\PRN212\\Lab2\\ProductManagementDemo\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
